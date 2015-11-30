@@ -7,7 +7,7 @@ So far only basic functionality is implemented, I've not messed up with extra da
 Check out the [demo](http://sespiros.github.io/google-tag-manager/)
 
 ## Setup
-Install with bower or [download the zip](https://github.com/sespiros/google-tag-manager/archive/v0.0.1.zip)
+Install with bower or [download the zip](https://github.com/sespiros/google-tag-manager/archive/v1.0.0.zip)
 ```bash
 bower install --save sespiros/google-tag-manager
 ```
