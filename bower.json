@@ -1,0 +1,34 @@
+{
+  "name": "google-tag-manager",
+  "version": "1.0.0",
+  "authors": [
+    "Seimenis Spyros <sespiros@gmail.com>"
+  ],
+  "description": "Polymer 1.2 element for Google Tag Manager",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "google",
+    "tag",
+    "tags",
+    "manager",
+    "google-tag-manager",
+    "google-analytics",
+    "analytics"
+  ],
+  "main": "google-tag-manager.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/sespiros/google-tag-manager/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "^3.4.0"
+  }
+}
